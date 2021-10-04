@@ -1,4 +1,4 @@
-# cuddly-octo-robot
+# Master Degree Thesis
 GBM and Quantum Algorithm to describe financial time series
 
 In this GitHub repository you can read the examples of the codes that I used to write my Master Degree Thesis in Physics of Complex Systems at Politecnico di Torino in October 2021.
